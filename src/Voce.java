@@ -1,4 +1,4 @@
-// versione 2
+// versione carlino
 public class Voce {
 	
 	private String nome,numero;
