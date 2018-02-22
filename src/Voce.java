@@ -1,4 +1,4 @@
-// versione 0
+// versione 1
 public class Voce {
 	
 	private String nome,numero;
